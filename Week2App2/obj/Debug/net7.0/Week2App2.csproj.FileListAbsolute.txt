@@ -1,0 +1,15 @@
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\bin\Debug\net7.0\Week2App2.exe
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\bin\Debug\net7.0\Week2App2.deps.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\bin\Debug\net7.0\Week2App2.runtimeconfig.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\bin\Debug\net7.0\Week2App2.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\bin\Debug\net7.0\Week2App2.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.csproj.AssemblyReference.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.AssemblyInfoInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.AssemblyInfo.cs
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.csproj.CoreCompileInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\refint\Week2App2.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\Week2App2.genruntimeconfig.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week2App2\Week2App2\obj\Debug\net7.0\ref\Week2App2.dll
